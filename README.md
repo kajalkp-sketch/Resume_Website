@@ -29,7 +29,5 @@ Download or clone the repository
 Open the folder
 Open index.html in any browser
 
-📂 Folder Structure
-Resume-Website/
-│── index.html
+
 
